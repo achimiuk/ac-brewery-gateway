@@ -11,7 +11,7 @@
     <groupId>com.github.sfg-beer-works</groupId>
     <artifactId>ac-brewery-gateway</artifactId>
 
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>ac-brewery-gateway</name>
     <description>Brewery Gateway</description>
 
